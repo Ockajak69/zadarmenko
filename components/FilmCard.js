@@ -1,0 +1,1 @@
+// Komponenta pre zobrazenie filmu s trailerom
